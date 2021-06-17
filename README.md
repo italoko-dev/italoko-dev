@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hellow World 👋, I'am Italo Piovan👩‍💻
 
-<!--
-**Italoko/Italoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Seventh period student of Information Systems, passionate about technology, engines and science, I have been working with full stack web development and studying computer vision.
+</p>
+<p>Available for work, projects, ideas :bulb:</p>
 
-Here are some ideas to get you started:
+### Stats
+<p align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalooPiovan&theme=dark)](https://github.com/Italoko/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Italo Piovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Italoko&show_icons=true&theme=dark)
+  
+</p>
+
+<p align="center">
+Contact to me on the web 🌍 👇:
+</p>
+<p align="center">
+<a href="www.linkedin.com/in/italopiovan"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="mailto:italo_piovan@hotmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+
+</p>
