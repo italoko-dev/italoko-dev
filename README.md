@@ -18,7 +18,7 @@ Seventh period student of Information Systems, passionate about technology, engi
 Contact to me on the web 🌍 👇:
 </p>
 <p align="center">
-<a href="www.linkedin.com/in/italopiovan"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="mailto:italo_piovan@hotmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+<a href="www.linkedin.com/in/italopiovan"><img src="https://github.com/Italoko/Italoko/blob/main/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="mailto:italo_piovan@hotmail.com"><img src="https://github.com/Italoko/Italoko/blob/main/assets/outlook.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
 
 </p>
