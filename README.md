@@ -1,4 +1,4 @@
-## Hellow World 👋, I'am Italo Piovan👩‍💻
+## Hello World 👋, I'am Italo Piovan👩‍💻
 
 <p>
 Seventh period student of Information Systems, passionate about technology, engines and science, I have been working with full stack web development and studying computer vision.
