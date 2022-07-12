@@ -1,7 +1,7 @@
 ## Hello World 👋, I'am Italo Piovan👩‍💻
 
 <p>
-Eighth period student of Information Systems, passionate about technology, engines and science, I have been working with full stack web development and studying computer vision.
+Eighth period student of Information Systems, passionate about technology, engines and science, I have been working Analytics Engineer
 </p>
 <p>Available for work, projects, ideas :bulb:</p>
 
