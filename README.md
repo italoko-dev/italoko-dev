@@ -1,9 +1,9 @@
 ## Hello World 👋, I'am Italo Piovan👩‍💻
 
 <p>
-Eighth period student of Information Systems, passionate about technology, engines and science, I have been working Analytics Engineer
+Bachelor in Information Systems, passionate about technology, engines and science, I have been working Analytics Engineer
 </p>
-<p>Available for work, projects, ideas :bulb:</p>
+<p>Available for projects, ideas :bulb:</p>
 
 ### Stats
 <p>
