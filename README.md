@@ -19,7 +19,7 @@ Ayrton Senna .
 ### Stats
 <p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Italoko&theme=dark)](https://github.com/Italoko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italoko-dev&theme=dark)](https://github.com/Italoko/github-readme-stats)
   
-![Italo Piovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Italoko&show_icons=true&theme=dark)
+![Italo Piovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoko-dev&show_icons=true&theme=dark)
 </p>
